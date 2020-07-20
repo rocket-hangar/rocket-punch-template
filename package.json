@@ -3,6 +3,8 @@
   "scripts": {
     "build": "rocket-punch build",
     "publish": "rocket-punch publish",
+    "view": "rocket-punch view",
+    "doctor": "rocket-punch doctor",
     "test": "jest --colors",
     "coverage": "jest --coverage --colors",
     "format": "prettier --write \"src/{**/*,*}/*.{ts,tsx}\"",
@@ -24,15 +26,15 @@
     "@ssen/eslint-config": "^1.1.0",
     "@ssen/prettier-config": "^1.0.0",
     "@types/eslint": "^7.2.0",
-    "@types/jest": "^26.0.3",
-    "@types/prettier": "^2.0.1",
-    "eslint": "^7.3.1",
+    "@types/jest": "^26.0.5",
+    "@types/prettier": "^2.0.2",
+    "eslint": "^7.5.0",
     "eslint-config-prettier": "^6.11.0",
     "husky": "^4.2.5",
     "jest": "^26.1.0",
     "lint-staged": "^10.2.11",
     "prettier": "^2.0.5",
-    "rocket-punch": "^1.0.1",
-    "ts-jest": "^26.1.1"
+    "rocket-punch": "^1.3.0",
+    "ts-jest": "^26.1.3"
   }
 }

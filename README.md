@@ -1,8 +1,10 @@
 # Rocket Punch Template
 
-- `npm run build`
-- `npm run publish`
-- `npm test`
+- `npm run build` build your packages
+- `npm run publish` publish your packages to npm registry
+- `npm run view` view your remote information of packages
+- `npm run doctor` check configs is validated for rocket-punch
+- `npm test` test with jest
 
 # Start development
 
