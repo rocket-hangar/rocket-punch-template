@@ -34,7 +34,7 @@
     "jest": "^26.3.0",
     "lint-staged": "^10.2.11",
     "prettier": "^2.0.5",
-    "rocket-punch": "^2.0.0",
+    "rocket-punch": "^2.1.0",
     "ts-jest": "^26.2.0"
   }
 }
